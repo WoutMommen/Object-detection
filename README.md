@@ -1,1 +1,1 @@
-# Yolov5_object_detection
+# Object detection using YOLOv5
